@@ -1,0 +1,42 @@
+CLINICAL TRIAL PROTOCOL
+NCT ID: NCT06240143
+Title: Intradermal Ipilimumab and Nivolumab in High Risk Stage II Melanoma
+Target Condition: Melanoma
+Eligible Sex: ALL
+Minimum Age: 18 Years
+
+ELIGIBILITY CRITERIA:
+Inclusion Criteria:
+
+* Men and women, at least 18 years of age;
+* World Health Organization (WHO) Performance Status 0 or 1;
+* Histologically confirmed, stage pT3-4 cutaneous melanoma (Breslow thickness \>2.0mm; according to AJCC criteria 8th edition);
+* Having ≥44% risk for SN positivity as assessed by the MIA Sentinel Node Metastasis Risk prediction tool (melanomarisk.org.au/SNLForm)1;
+* Excision of primary melanoma took place ≤4 weeks prior to informed consent;
+* Naïve for re-excision of the primary melanoma site and for sentinel node procedure;
+* No other solid, distantly metastasized malignancies, no hematological malignancies and no malignancies for which systemic treatment is administered within 6 months prior to study inclusion;
+* No prior immunotherapy targeting CTLA-4, PD-1, PD-L1 or LAG-3;
+* No prior targeted therapy with BRAF/MEK inhibition;
+* No immunosuppressive medications within 6 months prior to study inclusion (steroids equivalent to prednisolone ≤10 mg are allowed);
+* Screening laboratory values must meet the following criteria: WBC ≥2.0x109/L, neutrophils ≥1.5x109/L, platelets ≥100x109/L, hemoglobin ≥5.5 mmol/L, creatinine ≤1.5xupper limit of normal (ULN), AST ≤1.5x ULN, ALT ≤1.5x ULN, bilirubin ≤1.5x ULN (except for subjects with Gilbert syndrome who must have a total bilirubin \<3.0 mg/dL)
+* LDH level ≤ULN;
+* Women of childbearing potential (WOCP) must use appropriate method(s) of contraception, i.e. methods with a failure rate of \<1% per year when used consistently and correctly, to avoid pregnancy for 23 weeks post last ipilimumab + nivolumab infusion;
+* Patient willing and able to understand the protocol requirements and comply with the treatment schedule, scheduled visits, electronic patient outcome reporting, tumor biopsies and extra blood withdrawal during screening, and other requirements of the study;
+
+Exclusion Criteria:
+
+* Acral, uveal/ocular, mucosal or or lentigo maligna melanoma;
+* A concurrent second, primary melanoma;
+* Regionally or distantly metastasized melanoma, including in-transit metastases and macroscopic lymph node metastases;
+* No suspect lymph nodes detectable by ultrasound in the draining lymph node region(s);
+* Subjects with any active autoimmune disease or a documented history of autoimmune disease, or history of syndrome that required systemic steroids or immunosuppressive medications. Subjects with resolved childhood asthma/atopy, type I diabetes mellitus, residual hypothyroidism due to autoimmune thyroiditis only requiring hormone replacement, skin disorders (such as vitiligo, psoriasis, or alopecia) not requiring systemic treatment, are permitted to enroll;
+* Prior surgery, including prior sentinel node procedure or lymph node dissection, in the affected lymph node region(s);
+* Prior radiotherapy targeting the affected lymph node region(s);
+* Subjects will be excluded if they test positive for hepatitis B virus surface antigen (HBsAg) or hepatitis C virus ribonucleic acid (HCV antibody), indicating acute or chronic infection. Subjects treated and being at least one year free from HCV are allowed to participate;
+* Subjects will be excluded if they have known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS);
+* Subjects with history of allergy to study drug components or history of severe hypersensitivity reaction to monoclonal antibodies;
+* Subjects with underlying medical conditions or active infection that, in the investigator's opinion, will make the administration of study drug hazardous or obscure the interpretation of toxicity or adverse events;
+* Women who are pregnant or breastfeeding;
+* Concurrent medical condition requiring the use of immunosuppressive medications, or immunosuppressive doses of systemic or absorbable topical corticosteroids \>10 mg prednisolone daily equivalent;
+* Use of other investigational drugs before study drug administration 30 days or 5 half-times before study inclusion;
+* Psychological, familial, sociological, or geographical conditions that potentially hamper compliance with the study protocol and follow-up schedule; those conditions should be discussed with the subject before registration in the trial.

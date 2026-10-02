@@ -1,0 +1,16 @@
+PULMONARY CLINICAL PROGRESS NOTE
+PATIENT ID: PAT-REAL-02
+DATE OF EVALUATION: June 20, 2026
+
+DIAGNOSIS: Metastatic Non-Small Cell Lung Cancer (NSCLC), Stage IV.
+
+HISTORY & PHYSICAL:
+Patient is a 61-year-old female with progressive shortness of breath and chronic cough. CT chest/abdomen/pelvis demonstrated multiple bilateral pulmonary nodules and mediastinal lymphadenopathy. Biopsy confirmed Lung Adenocarcinoma with EGFR Exon 19 deletion.
+
+EXCLUSIONS / CONTRAINDICATIONS CHECK:
+Brain MRI scan confirmed active asymptomatic leptomeningeal disease / brain metastases in the cerebellar hemisphere. Patient is currently receiving high-dose systemic corticosteroids (Dexamethasone 4mg daily) for cerebral edema. 
+
+LABORATORY DATA:
+- AST: 45 U/L, ALT: 50 U/L
+- Serum Creatinine: 1.8 mg/dL (Elevated, mild renal impairment)
+- ECOG Performance Status: 2

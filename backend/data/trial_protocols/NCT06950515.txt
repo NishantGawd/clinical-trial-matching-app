@@ -1,0 +1,22 @@
+CLINICAL TRIAL PROTOCOL
+NCT ID: NCT06950515
+Title: General Anesthesia vs Conscious Sedation for Radial Endobronchial Ultrasound
+Target Condition: Lung Cancer
+Eligible Sex: ALL
+Minimum Age: 18 Years
+
+ELIGIBILITY CRITERIA:
+Inclusion Criteria:
+
+* Age ≥ 18 years and ability to consent
+* Peripheral lung lesion less than 5cm in average diameter on axial CT images (A lung lesion will be considered peripheral if it is located beyond the origin of the subsegmental bronchi and presumed not to be visible endoscopically in white light during the evaluation of the CT scan by an interventional pulmonologist.)
+* Lesion deemed accessible by pEBUS by an experienced interventional pulmonologist
+* Decision by the medical team and the patient to use pEBUS as a diagnostic modality for the lung lesion
+
+Exclusion Criteria:
+
+* Planned use of electromagnetic navigation, augmented fluoroscopy or robotic bronchoscopy in addition to pEBUS. The use of virtual bronchoscopy planning is permitted
+* Presence of suspicious lymph nodes (size ≥ 10mm and/or moderate or greater hypermetabolism) on imaging which are accessible by l-EBUS and for which rapid on-site cytological analysis will be used
+* Contraindication to bronchoscopy or biopsies such as an unstable medical condition or uncorrected coagulopathy
+* Current pregnancy
+* Lack of free and informed consent

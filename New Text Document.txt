@@ -1,0 +1,23 @@
+1. Multi-Omic & Clinical Biomarker Normalization (HGVS / VCF Syntax)
+
+Market Gap: Existing tools fail when records use non-standard mutation naming (e.g., p.Val600Glu vs V600E, or T790M vs c.2369C>T).
+
+Feature: Integrate a deterministic mutation normalizer that maps genetic variants to standardized NCBI/ClinVar identifiers before running vector or rule matching.
+
+2. Washout Period & Therapy Window Calculator
+
+Market Gap: Commercial matchers flag a trial as eligible based on diagnosis but miss that the patient completed radiotherapy 2 weeks ago when the protocol requires a 4-week washout window.
+
+Feature: Parse timestamped treatment histories and compute explicit washout feasibility checks (e.g., Eligible starting in 14 days post-washout).
+
+3. Geospatial Burden Index & Site Capacity Matching
+
+Market Gap: Matchers suggest trials 500 miles away without considering accessibility or whether that specific trial site is currently pausing accrual.
+
+Feature: Compute a composite distance-burden score that factors in travel stipends, patient ECOG status, and recruitment status.
+
+4. 1-Page Actionable Clinical Trial Action Letter (CTAL) for Oncologists
+
+Market Gap: Doctors don't read JSON or long conversational summaries.
+
+Feature: Auto-generate a structured, printable 1-page PDF referral note detailing: Patient Baseline, Inclusion Criteria Met, Exclusions Cleared, Genomic Markers, and Trial Coordinator Contact Info.

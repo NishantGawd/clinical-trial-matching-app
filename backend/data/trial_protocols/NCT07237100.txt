@@ -1,0 +1,65 @@
+CLINICAL TRIAL PROTOCOL
+NCT ID: NCT07237100
+Title: Mirdametinib in Patients With Advanced NF1-mutant Melanoma
+Target Condition: Melanoma
+Eligible Sex: ALL
+Minimum Age: 18 Years
+
+ELIGIBILITY CRITERIA:
+Inclusion Criteria:
+
+* Patients with unresectable or metastatic melanoma with an NF1 mutation; Variance of NF1 of unknown/ uncertain significance will not be eligible; The genetic analysis for somatic mutations must be performed in a lab that has obtained CLIA certification.
+* Patients must have a report of NF1 sequencing analysis performed at CLIA-certified laboratory (by either tissue-based sequencing or liquid biopsy)
+* Must have been previously treated with
+
+  * anti PD-1/PD-L1 antibody; AND anti CTLA-4 antibody and/or anti LAG3 antibody;
+  * UNLESS these standard checkpoint inhibitors are not clinically indicated or suitable (for example, comorbid conditions, such as autoimmune disease, or significant toxicity with prior checkpoint inhibitor treatment)
+* Tumors must be progressing at the time of the enrollment
+* Patients must have an Eastern Cooperative Oncology Group (ECOG) performance status of ≤ 2
+* Patients must be ≥ 18 years of age
+* Patients must have measurable metastatic disease according to RECIST 1.1
+* Patients must have adequate organ function, defined as follows:
+* Absolute neutrophil count ≥ 1,500/μL
+* Platelets ≥ 100,000/μL
+* Hemoglobin ≥ 9 g/dL
+* Serum creatinine ≤ 1.5 x upper limit of normal (ULN) or calculated creatinine clearance ≥ 30 mL/min using the Cockcroft-Gault equation. Estimated glomerular filtration rate (eGFR) ≥60 mL/min/1.73 m2 calculated by the Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) equation (Grade ≤1). • Total bilirubin ≤ 1.5 x ULN OR direct bilirubin ≤ 1 x ULN (except patients with Gilbert's Syndrome, who must have a total bilirubin less than 3.0 mg/dL)
+* Aspartate aminotransferase and alanine aminotransferase ≤ 3.0 x ULN (Grade ≤1) unless liver metastases are present, in which case they must be ≤ 5 x ULN (Grade ≤2).
+* Adequate coagulation function, as determined by:
+* International Normalized Ratio (INR) ≤ 1.5 × ULN (Grade ≤ 1). If the participant receives anticoagulant therapy, the INR \> 1.5 × ULN is permitted, but the dose must be stable for at least 2 weeks before the start of the study treatments.
+* PTT ≤ 1.5 × ULN.
+* Adequate cardiac function, as determined by:
+* Systolic blood pressure \< 160 mmHg and diastolic blood pressure \< 100 mmHg (Grade ≤ 2).
+* LVEF ≥ 50% by MUGA or ECHO.
+* No clinically significant ECG waveform abnormalities assessments at screening (one triplicate).
+* Have normal serum calcium and phosphate levels (calcium level may be corrected for albumin level).
+* Female patients are eligible to enroll and participate in the study if:
+* Patient is of non-childbearing potential (i.e., physiologically incapable of becoming pregnant), including any female who:
+
+  1. has had a hysterectomy.
+  2. has had a bilateral oophorectomy (ovariectomy).
+  3. has had bilateral tubal ligation.
+  4. is postmenopausal (total cessation of menses for ≥1 year), OR
+* Women of child-bearing potential must agree to use highly effective contraceptive methods (hormonal or barrier method of birth control or abstinence) during the trial period through at least six months after the last dose. Male patients or their partners must be surgically sterile or agree to use adequate contraception while receiving trial treatment and for three months thereafter. Contraceptive use by men or women should be consistent with Clinical Trials Coordination Group (CTCG) guidance.
+* Patients must be able to understand the study procedures and agree to participate in the study by providing written informed consent.
+
+Exclusion Criteria:
+
+* Patients who were previously treated with MEK, ERK or RAF inhibitor therapy
+* Patients with symptomatic brain metastasis or active brain lesions ≥ 6 mm size or those who require steroid treatment for brain lesions or leptomeningeal disease
+* No systemic cancer therapy within 28 days of the study drug administration,
+* Patients must not be simultaneously enrolled in any therapeutic clinical trial
+* Patients must not have had investigational therapy administered ≤ 4 weeks, or within a time interval less than at least 5 half-lives of the investigational agent, whichever is longer, prior to the first scheduled day of dosing in this study.
+* Patient has a history of, or evidence of, retinal pathology on ophthalmologic examination that is considered a risk factor for central serous retinopathy, retinal vein occlusion (RVO), or neovascular macular degeneration. Participants will be excluded from study participation if they have any of the following risk factors for RVO at Screening:
+
+  * Intraocular pressure \> 21 mmHg;
+  * Serum cholesterol \> 300 mg/dL;
+  * Serum triglycerides \> 300 mg/dL;
+  * Hyperglycemia (fasting blood glucose \> 125 mg/dL or random blood glucose \> 200 mg/dL);
+* History or current evidence of glaucoma or clinically significant abnormalities on the ophthalmological exam, including but not limited to cataract limiting the ability to examine the retina or any optical coherence tomography (OCT) finding that could be a significant risk factor for RVO, retinopathy or neovascular macular degeneration.
+
+  o Note: Mild and controlled/stable age-related macular degeneration or non-proliferative diabetic retinopathy may be acceptable at the investigator's discretion after consultation with the ophthalmologist.
+* History (within 6 months before the start of the study treatments) of clinically significant cardiac disease (New York Heart Association Class III or IV), myocardial infarction, severe/unstable angina, coronary/peripheral artery bypass graft, symptomatic congestive heart failure, cerebrovascular accident, clinically significant transient ischemic attack, symptomatic pulmonary embolism, unexplained syncope, or long QT syndrome.
+* Patient who is pregnant or breastfeeding.
+* Patient with active bacterial, fungal, or viral infection, including but not limited to the use of antibiotics, antifungals, or antiviral agents at the time of Screening;
+* Underlying medical conditions, laboratory abnormality, or alcohol or drug abuse or dependence that, in the Investigator's opinion, will be unfavorable for the administration of study treatment or affect the explanation of drug toxicity or adverse events; or insufficient compliance during the study according to Investigator's judgement; or
+* Patient has experienced other severe acute or chronic medical or psychiatric conditions, including recent (within 1 year of signing informed consent/assent) or active suicidal ideation or behavior, or a laboratory abnormality that may increase the risk associated with study participation or study treatment administration or may interfere with the interpretation of study results and, in the judgment of the Investigator, would make the participant inappropriate for entry into this study.

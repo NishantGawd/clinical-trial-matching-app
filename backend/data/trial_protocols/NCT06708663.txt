@@ -1,0 +1,31 @@
+CLINICAL TRIAL PROTOCOL
+NCT ID: NCT06708663
+Title: HX009+ IN10018 With or Without Standard Chemotherapy for Advanced Solid Tumours
+Target Condition: Melanoma
+Eligible Sex: ALL
+Minimum Age: 18 Years
+
+ELIGIBILITY CRITERIA:
+Inclusion Criteria:
+
+1. Voluntarily participate in the trial and sign the informed consent form;
+2. male or female, age at 18 to 70 years (including borderline value) ;
+3. expected survival ≥ 12 weeks;
+4. ECOG score 0-1;
+5. patients with unresectable/metastatic advanced solid tumours (including biliary tract malignancies and malignant melanoma) confirmed by cytology or histopathology; Part I: Failed standard therapy, or no effective standard therapy (prior treatment with anti-PD-1, anti-PD-L1, or anti-CTLA-4 antibodies may be eligible for enrolment); Part II: No prior systemic therapy (prior neoadjuvant and adjuvant therapy is permitted, but needs to have been completed at least 6 months ago);
+
+Exclusion Criteria:
+
+1. Histological or pathological diagnosis of carcinoma of the jugular abdomen;
+2. Patients with melanoma with known BRAF v600E mutation and NRAS mutation; patients with cholangiocarcinoma and gallbladder cancer with known BRAF v600E mutation, NTRK gene fusion, RET gene fusion mutation, FGFR2 gene fusion, IDH1 gene mutation, and KRAS mutation
+3. Subjects with symptomatic brain metastases, meningeal metastases, or spinal cord compression, except for the following: asymptomatic brain metastases (i.e., no progressive central nervous system symptoms caused by brain metastases, no need for corticosteroid or antiepileptic drugs, and the lesion has been stable for ≥4 weeks as confirmed by imaging tests);
+4. have had a malignancy other than the study disease (biliary malignancy, malignant melanoma) within 5 years prior to signing the ICF, except for malignancies with negligible risk of metastasis or death and/or those that have received curative treatment (e.g. adequately treated cervical carcinoma in situ, basal or squamous cell skin carcinoma, confined prostate cancer, ductal carcinoma in situ, or stage I uterine cancer);
+5. Subjects with an active, or history of, autoimmune disease that is likely to recur or is currently being treated (e.g., systemic lupus erythematosus, rheumatoid arthritis, inflammatory bowel disease, autoimmune thyroid disease, multiple sclerosis, vasculitis, glomerulonephritis, etc.), or at high risk (e.g., organ transplants requiring immunosuppressive therapy). However, subjects with the following diseases were allowed to enrol:
+
+   * Type 1 diabetes mellitus that has stabilised with the use of fixed doses of insulin;
+   * Autoimmune hypothyroidism and adrenal insufficiency requiring only hormone replacement therapy;
+   * Skin diseases that do not require systemic therapy: e.g. eczema, rashes that cover less than 10 per cent of the body surface, psoriasis without ocular symptoms.
+6. have severe cardiovascular disease such as symptomatic congestive heart failure (New York Heart Association Class III or IV), unstable angina, uncontrolled hypertension (systolic blood pressure ≥160 and/or diastolic blood pressure ≥100 mmHg under pharmacological control), cardiac arrhythmia, history of myocardial infarction within 6 months, or history of arterial thromboembolism or pulmonary embolism within 3 months prior to the first administration of the drug
+7. suffering from a serious lung disease requiring treatment or previous serious lung disease, interstitial lung disease, interstitial pneumonitis, pulmonary fibrosis, radiation pneumonitis requiring hormonal therapy, etc;
+8. uncontrolled concomitant medical conditions including, but not limited to, severe diabetes mellitus (fasting blood glucose \> 250 mg/dl or 13.9 mmol/L), active infectious diseases, psychiatric disorders (e.g., epilepsy) that may interfere with adherence, or other serious conditions requiring systemic therapy
+9. patient with uncontrolled pleural effusions, abdominal effusions or pericardial effusions that require repeated drainage. Individuals with indwelling drains are permitted to be enrolled;

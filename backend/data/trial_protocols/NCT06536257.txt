@@ -1,0 +1,50 @@
+CLINICAL TRIAL PROTOCOL
+NCT ID: NCT06536257
+Title: Personalised Immunotherapy Platform
+Target Condition: Melanoma
+Eligible Sex: ALL
+Minimum Age: 18 Years
+
+ELIGIBILITY CRITERIA:
+MELANOMA:
+
+Inclusion Criteria:
+
+1. Written informed consent to participation for the use of tumour tissue, blood and stool and collection of standard clinical data.
+2. Histologically confirmed resected stage II (at high risk of recurrence of disease), III or stage IV melanoma (including cutaneous, mucosal, acral, subungual, uveal or unknown primary melanoma) and unresectable Stage III or IV melanoma
+3. Eligible to receive immunotherapy
+4. Availability of a melanoma tissue sample which was obtained at surgery and where no systemic treatments (e.g. adjuvant treatment) were administered between sample procurement and proposed PIP testing
+5. Patients who have received adjuvant or neoadjuvant systemic therapy in the past are eligible if they have had recurrence after neoadjuvant or adjuvant therapy has been completed and the biopsy represents this relapsed disease
+6. RECIST version 1.1 measurable disease.
+7. Tissue sample must be representative of the whole tumour and therefore excision biopsies are preferred over core biopsies.
+8. A life expectancy over 6 months.
+9. Prior treatment with BRAF (B-Raf proto-oncogene) / MEK (mitogen-activated protein kinase) inhibitors are acceptable, providing the other eligibility criteria are met.
+10. If a patient has had prior radiotherapy for melanoma, the biopsy to be used for the biomarker test must be from an area that was not within the radiotherapy field.
+
+Exclusion Criteria:
+
+1\. Patients will be excluded if they have had a positive test result for hepatitis B virus surface antigen (HBV sAg) or hepatitis C virus ribonucleic acid (HCV antibody), indicating acute or chronic infection. If receiving treatment and from HCV for at least one year, patients are allowed to participate. No new testing is required for the sole purpose of this pilot phase. Patients will be excluded if they have known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS). No new testing is required
+
+NON-MELANOMA:
+
+Inclusion Criteria:
+
+1. Written informed consent to participation for the use of tumour tissue and collection of standard clinical data
+2. Histologically confirmed cancer and eligibility to receive immunotherapy treatment.
+3. Availability of a tissue sample where no systemic treatments were administered between sample procurement and proposed PIP testing
+4. If treatment has been administered since the last tissue sample was obtained, a new biopsy should be planned for routine testing or clinical trial screening, where a portion of the sample can be used for the predictive assay. No new biopsies are required for the sole purpose of this study.
+5. Patients who have received adjuvant or neoadjuvant systemic therapy in the past are eligible if they have had recurrence after neoadjuvant or adjuvant therapy has been completed and the biopsy represents this relapsed disease.
+6. Have clinically detectable disease defined as one of more of the following:
+
+   * RECIST measurable. Lesions situated in a previously irradiated area are considered measurable if RECIST-defined disease progression since radiotherapy has been demonstrated in such lesions, OR,
+   * Positron Emission Tomography (PET) avid, OR,
+   * Clinically evident disease: photographically, detectable on CT or palpable, OR
+   * Clinical status measured by observable and diagnosable signs or symptoms.
+7. The tissue sample must be representative of the whole tumour and therefore excision biopsies are preferred over core biopsies.
+8. A life expectancy over 6 months.
+9. Prior treatment with targeted therapies are acceptable, providing the other eligibility criteria are met.
+10. If a patient has had prior radiotherapy for melanoma, the biopsy to be used for the biomarker test must be from an area that was not within the radiotherapy field
+
+Exclusion Criteria:
+
+1\. Patients will be excluded if they have had a positive test result for hepatitis B virus surface antigen (HBV sAg) or hepatitis C virus ribonucleic acid (HCV antibody), indicating acute or chronic infection. If receiving treatment and from HCV for at least one year, patients are allowed to participate. No new testing is required for the sole purpose of this pilot phase. Patients will be excluded if they have known history of testing positive for human immunodeficiency virus (HIV) or known acquired immunodeficiency syndrome (AIDS). No new testing is required

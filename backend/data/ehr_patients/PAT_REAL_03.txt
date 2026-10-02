@@ -1,0 +1,13 @@
+DERMATO-ONCOLOGY OUTPATIENT NOTE
+PATIENT ID: PAT-REAL-03
+DATE OF EVALUATION: May 12, 2026
+
+PATIENT SUMMARY:
+67-year-old female presenting with metastatic BRAF wild-type melanoma. Patient previously failed first-line Anti-PD-1 checkpoint inhibitor therapy (Nivolumab) in late 2025 with progressive disease in visceral organs.
+
+PAST MEDICAL HISTORY:
+1. Severe Rheumatoid Arthritis on chronic immunosuppressive regimen (Infliximab 5mg/kg IV every 8 weeks + Prednisone 10mg daily).
+2. Coronary Artery Disease s/p stent placement in 2021.
+
+RECOMMENDATION:
+Patient currently exhibits active systemic autoimmune disease requiring high-dose immunosuppressants, which represents a significant contraindication for standard immunotherapy trials.

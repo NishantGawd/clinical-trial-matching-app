@@ -1,0 +1,204 @@
+# ==========================================
+# Clinical Trial Matcher - Git Ignore
+# ==========================================
+
+
+# ------------------------------------------
+# Environment / Secrets
+# ------------------------------------------
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# Frontend environment files
+frontend/.env.local
+frontend/.env.*.local
+
+# Backend environment files
+backend/.env
+backend/.env.*
+
+
+# ------------------------------------------
+# Python Backend
+# ------------------------------------------
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python packaging
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Type checking / linting
+.mypy_cache/
+.pyre/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+
+# ------------------------------------------
+# Backend Generated / Temporary Files
+# ------------------------------------------
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Generated output
+backend/output/
+
+# Python bytecode
+backend/**/__pycache__/
+
+
+# ------------------------------------------
+# Frontend - Next.js
+# ------------------------------------------
+
+# Next.js build
+frontend/.next/
+frontend/out/
+
+# Node dependencies
+frontend/node_modules/
+
+# Production build
+frontend/build/
+
+# Next.js cache
+frontend/.vercel/
+
+# TypeScript build info
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+
+
+# ------------------------------------------
+# Node / npm
+# ------------------------------------------
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+.npm/
+.yarn/
+.pnpm-store/
+
+
+# ------------------------------------------
+# Vercel
+# ------------------------------------------
+
+.vercel/
+
+
+# ------------------------------------------
+# IDE / Editors
+# ------------------------------------------
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Visual Studio
+.vs/
+
+# IntelliJ / WebStorm / PyCharm
+.idea/
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
+
+
+# ------------------------------------------
+# OS Generated Files
+# ------------------------------------------
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+
+# ------------------------------------------
+# Temporary / Backup Files
+# ------------------------------------------
+
+*.bak
+*.swp
+*.swo
+*.orig
+
+
+# ------------------------------------------
+# ML / Data Science
+# ------------------------------------------
+
+# Model/cache files
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+# ML experiment directories
+mlruns/
+wandb/
+runs/
+
+
+# ------------------------------------------
+# Large Generated Data
+# ------------------------------------------
+
+# Uncomment these if they are generated locally
+# backend/data/
+# backend/models/
+
+
+# ------------------------------------------
+# Local Development
+# ------------------------------------------
+
+*.local

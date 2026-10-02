@@ -1,0 +1,19 @@
+ONCOLOGY CONSULTATION NOTE
+PATIENT ID: PAT-REAL-01
+DATE OF EVALUATION: July 15, 2026
+
+CHIEF COMPLAINT: Follow-up for resected Stage III Cutaneous Melanoma.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 54-year-old male who underwent wide local excision and sentinel lymph node biopsy in April 2026 for a 2.4 mm nodular melanoma of the right upper back. Pathology revealed Stage IIIB melanoma with BRAF V600E mutation positivity confirmed by Next-Generation Sequencing (NGS). 
+
+PAST MEDICAL HISTORY:
+1. Essential Hypertension - well controlled on Amlodipine 5mg.
+2. Type 2 Diabetes Mellitus - HbA1c 6.8%.
+
+CURRENT MEDICATIONS:
+- Amlodipine 5mg PO daily
+- Metformin 500mg PO twice daily
+
+ASSESSMENT & PLAN:
+Laboratory evaluation shows normal CBC, LFTs, and serum creatinine. Renal function eGFR > 90 mL/min. Brain MRI from last week showed no evidence of intracranial metastases. No history of autoimmune disorders. Candidate for adjuvant systemic target therapy or immunotherapy clinical trials.

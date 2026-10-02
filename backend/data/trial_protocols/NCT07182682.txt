@@ -1,0 +1,55 @@
+CLINICAL TRIAL PROTOCOL
+NCT ID: NCT07182682
+Title: A Phase 3 Study of Sunvozertinib Versus Placebo as Adjuvant Therapy in Patients With Early-Stage Non-Small Cell Lung Cancer Harboring EGFR Exon 20 Insertion Mutations or PACC Mutations After Radical Surgery
+Target Condition: Lung Cancer
+Eligible Sex: ALL
+Minimum Age: 18 Years
+
+ELIGIBILITY CRITERIA:
+Inclusion Criteria:
+
+1. Provide a signed and dated informed consent form (ICF) prior to any study specific procedures, sampling, and analyses.
+2. Aged at least 18 years old at the time of ICF signature.
+3. Complete resection (R0) of the primary tumor and histologically confirmed diagnosis of NSCLC (participants with tumor histology indicative of neuroendocrine carcinoma, sarcomatoid carcinoma, or small cell lung cancer should be excluded).
+
+   * Complete surgical resection of the primary NSCLC is mandatory. All gross lesions must be completely resected to achieve microscopically negative margins. Hilar and mediastinal lymph node dissection should be performed per clinical guidelines.
+   * Acceptable surgery type: lobectomy, sleeve lobectomy, bilobectomy, or pneumonectomy.
+   * Acceptable surgery approach: thoracotomy or thoracoscopic surgery.
+4. Participants must have NSCLC classified post-operatively as stage IB, II, or IIIA according to the AJCC TNM staging 9.0th edition.
+5. Have documented EGFR exon20ins (Cohort 1) or EGFR PACC mutations (Cohort 2) from a local Clinical Laboratory Improvement Amendments (CLIA)-certified laboratory (or equivalent).
+
+   • Common EGFR PACC mutations include, but not limited to, L718Q, G719X, S768I, L747P/S, V769L, E709\_T710delinsD, L792H, and T854I.
+6. Participants must provide sufficient tumor tissue samples for confirmation of EGFR mutations by the sponsor designated central laboratory.
+7. ECOG performance status is 0 or 1.
+8. Participants must recover from prior lung surgery and systemic therapy (e.g., neoadjuvant therapy and/or adjuvant chemotherapy) without Grade 1 or higher AEs (except alopecia of any grade and ≤ Grade 2 platinum-associated neuropathy) at randomization.
+
+   * Participants who have not previously received adjuvant chemotherapy should be randomized as early as 4 weeks and within 10 weeks after the radical surgery.
+   * Participants who have previously received adjuvant chemotherapy can be randomized within 2 - 10 weeks of completion of adjuvant chemotherapy with a maximum interval of no more than 26 weeks from surgery to randomization. The adjuvant chemotherapy can start as early as 4 weeks after the radical surgery, in 21-day cycles, and up to 4 cycles.
+9. Adequate bone marrow reservation or organ functions within 7 days prior to randomization.
+10. Male participants with female partners of child-bearing potential should use barrier contraceptives (e.g., by use of condoms), during their participation in this study and for 6 months following the last dose of the study drug. Male participants must refrain from donating sperm during their participation in the study and for 6 months following the last dose of the study drug. If male participants wish to father children, they should be advised to arrange for freezing of sperm samples prior to the start of study drug.
+11. Female participants of child-bearing potential should use reliable contraceptives from the time of screening until 2 months after discontinuation of study drug. Female participants should not be breast feeding and must have a negative pregnancy test (serum or urine β-human chorionic gonadotropin) prior to start dosing or must fulfil one of the following criteria at screening:
+
+    * Post-menopausal defined as aged at least 50 years old and amenorrhea for at least 12 months following cessation of all exogenous hormonal treatment.
+    * Women under 50 years old would be considered postmenopausal if they have been amenorrheic for ≥ 12 months following cessation of exogenous hormonal treatments and with luteinizing hormone (LH) and follicle-stimulating hormone (FSH) levels in the post-menopausal range.
+    * Documentation of irreversible surgical sterilization by hysterectomy, bilateral oophorectomy or bilateral salpingectomy but not tubal ligation.
+
+Exclusion Criteria:
+
+1. Concurrent EGFR sensitizing mutations (L858R and/or exon 19 deletion) or other driver gene variations with available standard therapies (e.g., ALK positive).
+2. Participants who have had only segmentectomies or wedge resections.
+3. Participants who have received any preoperative or postoperative radiotherapy for NSCLC, or who plan to have radiotherapy during the study.
+4. Participants who have received any EGFR TKIs as (neo)adjuvant therapy for NSCLC or have known pathological complete response from previous neoadjuvant therapy.
+5. Participants who are receiving (or unable to stop) medications or herbs known to be strong CYP3A inducers within 2 weeks prior to randomization.
+6. Previous history of interstitial lung disease (ILD), drug-induced ILD, or radiation pneumonitis requiring steroid therapy, any evidence of clinically active ILD, or immunotherapy induced pneumonitis.
+7. Any serious or uncontrolled systemic disease requiring treatment, including uncontrolled hypertension, diabetes, chronic heart failure and active bleeding disorders (such as hemophilia, von Willebrand disease), etc., which in the opinion of the investigator is not suitable for participation in the trial or will affect compliance with the protocol; or active infection, including hepatitis B, hepatitis C and human immunodeficiency virus (HIV).
+8. Any of the following cardiac criteria:
+
+   * Mean resting corrected QT interval (QTc) \> 470 msec on 3 ECGs at screening
+   * Any clinically significant abnormalities in rhythm, conduction or morphology of resting ECG, e.g., complete left bundle branch block, third degree heart block, and second-degree heart block, PR interval \> 250 msec.
+   * Any factors that increase the risk of QTc prolongation, such as heart failure, hypokalemia, congenital long QT syndrome, family history of long QT syndrome or unexplained sudden death under 40 years old in first degree relatives or any concomitant medication known to prolong the QT interval.
+   * Prior history of atrial fibrillation within 6 months of the first dose of study drug, except for those related to drug treatment and recovered.
+9. Participants with a history of any malignancy, except for adequately treated non-melanoma skin cancer, carcinoma in situ or other solid tumors with \>5 years since completion of anti-cancer therapy and no evidence of disease recurrence at randomization
+10. Refractory nausea and vomiting, chronic gastrointestinal disease, inability to swallow the formulated product, or previous major bowel resection that may preclude adequate absorption of sunvozertinib.
+11. Hypersensitivity to sunvozertinib, excipients of sunvozertinib, or drugs of similar chemical structure or same class.
+12. Involvement in the design, planning or conduct of this study (applicable to Dizal staff or study site staff).
+13. Judgment by the investigator that the participant is unlikely to comply with study procedures, restrictions or requirements.

@@ -1,0 +1,18 @@
+CLINICAL TRIAL PROTOCOL
+NCT ID: NCT04986748
+Title: Using QPOP to Predict Treatment for Sarcomas and Melanomas
+Target Condition: Melanoma
+Eligible Sex: ALL
+Minimum Age: 21 Years
+
+ELIGIBILITY CRITERIA:
+Inclusion Criteria:
+
+* Diagnosis of sarcoma or melanoma
+* At least 1 tumour lesion amenable to fresh biopsy or resection
+* Signed informed consent from patient or legal representative
+* Able to comply with study-related procedures
+
+Exclusion Criteria:
+
+* There are no specific exclusion criteria if patients meet the inclusion criteria
